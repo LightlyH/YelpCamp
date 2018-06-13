@@ -1,7 +1,4 @@
-// require("dotenv").config
-
-// configure dotenv
-require('dotenv').load();
+require("dotenv").config
 
 var express     = require("express"),
     app         = express(),
